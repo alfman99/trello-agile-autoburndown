@@ -20,6 +20,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#showcase">Showcase</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -30,6 +31,14 @@
 
 This is a way to automatize the creation, storage and display of the burndown chart of a project using agile methodology
 > **THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND**
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Showcase
+
+<p align="center">
+  <img height="600" src="images/preview.png?raw=true">
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -45,10 +54,6 @@ This is a way to automatize the creation, storage and display of the burndown ch
 
 ## Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/alfman99/trello-agile-autoburndown.git
-   ```
 1. Update the script with your data (boardId, key, token)
 2. Create a Google Spreadsheet with the template provided
 3. Update the required parameters on the Spreadsheet
