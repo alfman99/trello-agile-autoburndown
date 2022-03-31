@@ -62,7 +62,11 @@ This is a way to automatize the creation, storage and display of the burndown ch
 ## Installation
 
 1. Click Archive > Create a copy; on [this spreadsheet](https://docs.google.com/spreadsheets/d/1gXt2oOAWYsE0x0xzE2ZMpajP2HgGGjlCtoJejU4YEF4/edit?usp=sharing)
-2. Update the spreadsheet with your data (boardId, key, token, sprint_actual)
+2. Update the spreadsheet with your data on the "config" sheet (on the down left side of the screen)
+* boardId (Example: https://trello.com/b/tAxyjTco/a3; grab the tAxyjTco part)
+* key (Get it here [trello.com/app-key](https://trello.com/app-key/))
+* token (Get it here too [trello.com/app-key](https://trello.com/app-key/))
+* sprint_actual (Example: 1)
 3. Go to Extensions > Apps Script
 4. Paste the script on the website it was just oppened
 5. Go to "Triggers" on the left pannel, and create a new trigger with this settings:
