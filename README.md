@@ -54,17 +54,16 @@ This is a way to automatize the creation, storage and display of the burndown ch
 
 ## Installation
 
-1. Update the script with your data (boardId, key, token)
-2. Create a Google Spreadsheet with the template provided
-3. Update the required parameters on the Spreadsheet
-4. Go to Extensions > Apps Script
-5. Paste the script on the website it was just oppened
-6. Go to Triggers on the left pannel, and create a new trigger
-7. Function to execute: DoAll
-8. Source of event: Time based
-9. Select the type of trigger based on time: Daily timer
-10. Hour selected: 23:00 to 00:00
-11. Wait and the burndown chart will be added to your burndown card on DOING list
+1. Create a Google Spreadsheet with the template provided
+2. Update the spreadsheet with your data (boardId, key, token, sprint_actual)
+3. Go to Extensions > Apps Script
+4. Paste the script on the website it was just oppened
+5. Go to "Triggers" on the left pannel, and create a new trigger with this settings:
+* Function to execute: DoAll
+* Source of event: Time based
+* Select the type of trigger based on time: Daily timer
+* Hour selected: 23:00 to 00:00
+6. Your burndown chart will be added to your burndown card on DOING list every day at 23:00
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
