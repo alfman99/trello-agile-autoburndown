@@ -23,6 +23,7 @@
     <li><a href="#showcase">Showcase</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#issues">Issues</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -44,17 +45,21 @@ This is a way to automatize the creation, storage and display of the burndown ch
 
 ## Prerequisites
 
+**If you dont have all of this prerequisites or dont follow the instructions this program WILL NOT WORK**
+
 * Trello token and key: [trello.com/app-key](https://trello.com/app-key/)
 * Trello board with at least one list with the name "DONE [sprint_number]", where [sprint_number] is the number of the sprint currently doing
 * Trello board with at least one list with the name "TODO [sprint_number]"
-* Google Spreadsheet with this format [IMPORTANT]: ...url...
+* Trello board with at least one list with the name "DOING [sprint_number]"
+* Trello card on the "DOING [sprint_number]" named "Burndown"
+* Create a copy of [this Google Spreadsheet [IMPORTANT]](https://docs.google.com/spreadsheets/d/1gXt2oOAWYsE0x0xzE2ZMpajP2HgGGjlCtoJejU4YEF4/edit?usp=sharing)
 * The script on this repo :^)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Installation
 
-1. Create a Google Spreadsheet with the template provided
+1. Click Archive > Create a copy; on [this spreadsheet](https://docs.google.com/spreadsheets/d/1gXt2oOAWYsE0x0xzE2ZMpajP2HgGGjlCtoJejU4YEF4/edit?usp=sharing)
 2. Update the spreadsheet with your data (boardId, key, token, sprint_actual)
 3. Go to Extensions > Apps Script
 4. Paste the script on the website it was just oppened
@@ -75,7 +80,12 @@ Distributed under the MPL-2.0 License. See [`LICENSE`](https://github.com/alfman
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- CONTACT -->
+## Issues
 
+If you have any issue with the program not working, open an issue with your problem.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
