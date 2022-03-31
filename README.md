@@ -13,6 +13,8 @@
     <a href="https://github.com/alfman99/trello-agile-autoburndown/issues">Report Bug</a>
     ·
     <a href="https://github.com/alfman99/trello-agile-autoburndown/issues">Request Feature</a>
+    ·
+    <a href="https://github.com/alfman99/trello-agile-autoburndown/issues">Issues</a>
   </p>
 </div>
 
