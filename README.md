@@ -83,7 +83,7 @@ Distributed under the MPL-2.0 License. See [`LICENSE`](https://github.com/alfman
 <!-- CONTACT -->
 ## Issues
 
-If you have any issue with the program not working, open an issue with your problem.
+If you have any issue [HERE](https://github.com/alfman99/trello-agile-autoburndown/issues) with the program not working, open an issue with your problem.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
