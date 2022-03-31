@@ -100,5 +100,5 @@ Project Link: [https://github.com/alfman99/trello-agile-autoburndown](https://gi
 [issues-shield]: https://img.shields.io/github/issues/alfman99/trello-agile-autoburndown.svg
 [issues-url]: https://github.com/alfman99/trello-agile-autoburndown/issues
 [license-shield]: https://img.shields.io/github/license/alfman99/trello-agile-autoburndown.svg
-[license-url]: https://github.com/alfman99/trello-agile-autoburndown/blob/master/LICENSE.txt
+[license-url]: https://github.com/alfman99/trello-agile-autoburndown/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
